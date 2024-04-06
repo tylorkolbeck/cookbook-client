@@ -7,6 +7,7 @@ import { HeaderNavComponent } from './modules/ui/components/header-nav/header-na
   selector: 'app-root',
   standalone: true,
   imports: [RouterOutlet, LoginComponent, HeaderNavComponent],
+  providers: [],
   templateUrl: './app.component.html',
   styleUrl: './app.component.scss',
 })

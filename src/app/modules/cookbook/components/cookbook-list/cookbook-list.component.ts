@@ -8,5 +8,4 @@ import { Component } from '@angular/core';
   styleUrl: './cookbook-list.component.scss'
 })
 export class CookbookListComponent {
-
 }
